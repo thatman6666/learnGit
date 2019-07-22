@@ -6,4 +6,6 @@ Git tracks changes.
 git tracks changes of files
 sdf
 this is ev commit;
-create a new branch is quick& simple
+
+
+Create a new branch is quick and simple;
