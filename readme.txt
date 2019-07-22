@@ -5,5 +5,7 @@ Git has a mutable index called stage.
 Git tracks changes.
 git tracks changes of files
 sdf
+this is ev commit;
+
 
 
